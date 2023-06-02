@@ -11,9 +11,9 @@
 
 <br><br>
 
-## User Interface BasaSunda
+## User Interface Webstie Ayo Belajar Bahasa Isyarat
 
-> Berikut adalah User Interface yang ada didalam aplikasi ini : 
+> Berikut adalah User Interface yang ada didalam website ini ini : 
 
 <p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss1.PNG"></p>
 <p align="center"><img width="70%" height="auto" src="https://github.com/rafie-mirza/bahasa/blob/main/assets/images/ss/ss2.PNG"></p>
