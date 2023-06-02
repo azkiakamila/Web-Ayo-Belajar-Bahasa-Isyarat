@@ -31,7 +31,7 @@
 
 ## Cara Menggunakan
 
-> Untuk menggunakan aplikasi ini, silahkan import basasunda.sql pada phpmyadmin kalian, kemudian download project ini dan taruh di foler htdocs, kemudian buka pada browser.
+> Untuk menggunakan aplikasi ini, silahkan import basasunda.sql pada phpmyadmin kalian, kemudian download project ini dan taruh di folder htdocs, kemudian buka pada browser.
 
 <br><br>
 
